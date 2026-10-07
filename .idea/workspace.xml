@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a7bd8ee-6bf1-4e17-b15c-829485771152" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ WebLab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000328666" />
+      <entry key="S5" value="1.0000960945908164" />
+      <entry key="S10" value="1.015051065805193" />
+      <entry key="S30" value="1.551626397721395" />
+      <entry key="S60" value="2.4568358827221157" />
+      <entry key="M2" value="3.4017981831350053" />
+      <entry key="M5" value="4.289729384280516" />
+      <entry key="M10" value="5.605503733092521" />
+      <entry key="M15" value="7.9731600480845115" />
+      <entry key="M30" value="15.767849338310286" />
+      <entry key="H1" value="34.01030245677835" />
+      <entry key="H2" value="119.81990789709164" />
+      <entry key="H4" value="362.57806115155626" />
+      <entry key="D1" value="1486.2313309133194" />
+      <entry key="W1" value="2145.4775733632914" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.664107482983358E-230" />
+      <entry key="MS500" value="1.2965630506584455E-46" />
+      <entry key="S2" value="3.374604780124891E-12" />
+      <entry key="S5" value="2.664929877329734E-5" />
+      <entry key="S10" value="0.006832811675506874" />
+      <entry key="S30" value="0.47199005134979627" />
+      <entry key="S60" value="1.5085735340918363" />
+      <entry key="M2" value="2.7349845679566287" />
+      <entry key="M5" value="3.92700648037741" />
+      <entry key="M10" value="4.515720398030503" />
+      <entry key="M15" value="4.890778218875234" />
+      <entry key="M30" value="5.787074157028225" />
+      <entry key="H1" value="9.801482533891717" />
+      <entry key="H2" value="33.08403728188563" />
+      <entry key="H4" value="95.01067208792352" />
+      <entry key="D1" value="359.46923113824806" />
+      <entry key="W1" value="503.8649964540765" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3283547413576118E-5" />
+      <entry key="MS500" value="0.1058431640453159" />
+      <entry key="S2" value="0.5703818579618024" />
+      <entry key="S5" value="0.7989550140535188" />
+      <entry key="S10" value="0.9135524782876666" />
+      <entry key="S30" value="1.9490283785720501" />
+      <entry key="S60" value="3.890594124059217" />
+      <entry key="M2" value="6.078203178617378" />
+      <entry key="M5" value="8.185228906171249" />
+      <entry key="M10" value="10.102846258500815" />
+      <entry key="M15" value="12.849808954001798" />
+      <entry key="M30" value="21.54503000311038" />
+      <entry key="H1" value="43.80213333566536" />
+      <entry key="H2" value="152.88635103103127" />
+      <entry key="H4" value="457.5627897882835" />
+      <entry key="D1" value="1845.6842033839932" />
+      <entry key="W1" value="2649.339277735774" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ixw3UMnYx9N6l33EbLBswHboDw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.app.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/User/AppData/Roaming/JetBrains/WebStorm2026.2/node/versions/24.20.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2026.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10315.144" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a7bd8ee-6bf1-4e17-b15c-829485771152" name="Changes" comment="" />
+      <created>1788719328423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788719328423</updated>
+      <workItem from="1788719330023" duration="4697000" />
+      <workItem from="1788763375263" duration="1007000" />
+      <workItem from="1788779682017" duration="10395000" />
+      <workItem from="1788798911767" duration="26419000" />
+      <workItem from="1788867154366" duration="7826000" />
+      <workItem from="1788881588402" duration="10826000" />
+      <workItem from="1789487322418" duration="77000" />
+      <workItem from="1789554832646" duration="1938000" />
+      <workItem from="1789567852200" duration="644000" />
+      <workItem from="1789736717814" duration="10239000" />
+      <workItem from="1789749463544" duration="8624000" />
+      <workItem from="1789758367945" duration="691000" />
+      <workItem from="1790083476596" duration="11474000" />
+      <workItem from="1790266398608" duration="365000" />
+      <workItem from="1791219855677" duration="2527000" />
+      <workItem from="1791231229411" duration="4495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
